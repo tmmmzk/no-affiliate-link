@@ -6,7 +6,7 @@
 - Adguard for Mac
 - Adguard for Android
 
-### 적용 사진
+### 적용 전후 비교
 <details>
     <summary>자세히</summary>
 
