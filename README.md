@@ -6,7 +6,18 @@
 - Adguard for Mac
 - Adguard for Android
 
-## 기능
+### 적용 사진
+<details>
+    <summary>자세히</summary>
+
+![Alt text](/001.png)
+![Alt text](/002.png)
+![Alt text](/003.png)
+![Alt text](/004.png)
+
+</details>
+
+### 기능
 아래 사이트 접속시에 수익 링크를 자동으로 제거/우회합니다.
 - 쿠팡 파트너스
 - 알리익스프레스 어필리에이트
