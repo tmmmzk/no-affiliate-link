@@ -1,12 +1,12 @@
 # no-affiliate-link
 쿠팡 파트너스, 알리익스프레스 어필리에이트, 링크 프라이스와 같은 수익링크를 제거하는 애드가드 필터입니다.
 
-### 호환성
+## 호환성
 - Adguard for Windows
 - Adguard for Mac
 - Adguard for Android
 
-### 적용 전후 비교
+## 적용 전후 비교
 <details>
     <summary>자세히</summary>
 
@@ -17,7 +17,7 @@
 
 </details>
 
-### 기능
+## 기능
 아래 사이트 접속시에 수익 링크를 자동으로 제거/우회합니다.
 - 쿠팡 파트너스
 - 알리익스프레스
@@ -26,7 +26,7 @@
 - 11번가
 - 롯데 온
 
-### 설치
+## 설치
 ```
 https://raw.githubusercontent.com/tmmmzk/no-affiliate-link/master/filters.txt
 ```
