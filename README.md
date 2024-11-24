@@ -25,3 +25,8 @@
 - 오늘의 집
 - 11번가
 - 롯데 온
+
+### 설치
+```
+https://raw.githubusercontent.com/tmmmzk/no-affiliate-link/master/filters.txt
+```
