@@ -1,6 +1,6 @@
 ! Title: No Affiliate Link
 ! Description: 쿠팡 파트너스, 알리익스프레스 어필리에이트, 링크 프라이스와 같은 수익링크를 제거합니다.
-! Version: 1.0.0
+! Version: 1.1.0
 ! Homepage: https://github.com/tmmmzk/no-affiliate-link
 
 ! 쿠팡 파트너스
