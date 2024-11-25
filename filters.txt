@@ -26,3 +26,6 @@
 
 ! 롯데온
 ||lotteon.com$removeparam=ch_dtl_no
+
+! 지마켓
+||gmarket.co.kr$removeparam=jaehuid
