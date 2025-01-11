@@ -18,6 +18,13 @@
 ||click.linkprice.com/click.php?*$urltransform=/%3D/=/
 ||click.linkprice.com/click.php?*$urltransform=/^https?:\/\/click\.linkprice\.com\/click\.php\?.*&tu=([^&]+).*/$1/
 
+||lase.kr/click.php?*$urltransform=/%3A/:/
+||lase.kr/click.php?*$urltransform=/%2F/\//
+||lase.kr/click.php?*$urltransform=/%3F/?/
+||lase.kr/click.php?*$urltransform=/%3D/=/
+||lase.kr/click.php?*$urltransform=/^https?:\/\/click\.linkprice\.com\/click\.php\?.*&tu=([^&]+).*/$1/
+
+
 ! 오늘의집
 ||ohou.se$removeparam=/^(airbridge_referrer|event_uuid|client_id|referrer_timestatmp|channel|campaign|ad_group|ad_creative|sub_id_2|sub_id_3)=/
 
